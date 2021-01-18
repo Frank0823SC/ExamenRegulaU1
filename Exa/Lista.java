@@ -1,7 +1,7 @@
 package Exa;
 public class Lista {
 
-    static void mostrarLista() {
+    public static void mostrarLista() {
         
     }
     String Lista[];
