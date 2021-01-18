@@ -25,6 +25,5 @@ public class Main {
             System.out.println("1.- Si   2.- No");
             respuesta = user.nextInt();
         }while (respuesta!=2);
-
     }
 }
