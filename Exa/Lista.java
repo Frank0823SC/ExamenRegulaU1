@@ -1,6 +1,10 @@
 package Exa;
 public class Lista {
-        String Lista[];
+
+    static void mostrarLista() {
+        
+    }
+    String Lista[];
     public void crearArreglo(int num_elementos){
         Lista = new String[num_elementos];
     }
