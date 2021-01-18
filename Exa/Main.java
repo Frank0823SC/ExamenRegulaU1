@@ -17,7 +17,7 @@ public class Main {
             dato=user.next();
             lista.llenarLista(dato);
         }
-        Lista.mostrarLista();
+        lista.mostrarLista();
         
         do {
             System.out.println("\n");
